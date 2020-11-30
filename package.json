@@ -12,6 +12,7 @@
 	"activationEvents": [
 		"onCommand:nextchar.find"
 	],
+	"license": "MIT",
 	"main": "./dist/extension.js",
 	"contributes": {
 		"commands": [
